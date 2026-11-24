@@ -1,0 +1,801 @@
+Expert,Objective,Alternative,Mean,Min,Max,Confidence,Conf_Info,Add_Info,EB.Notes
+CL,1,1,45,0,120,100,NA,NA,NA
+CL,1,2,45,0,120,100,NA,NA,NA
+CL,1,3,31,0,100,70,NA,NA,NA
+CL,1,4,30,0,100,70,NA,NA,NA
+CL,1,5,20,0,73,100,NA,NA,NA
+CL,1,6,45,0,120,70,NA,NA,NA
+CL,1,7,10,0,29,100,NA,NA,NA
+CL,1,8,45,0,70,80,NA,NA,NA
+CL,1,9,10,0,30,100,NA,NA,NA
+CL,1,10,20,0,75,80,NA,NA,NA
+CL,1,11,20,1,75,70,NA,NA,NA
+CL,1,12,60,0,100,60,NA,NA,NA
+CL,1,13,45,0,90,70,NA,NA,NA
+CL,1,14,40,0,100,60,NA,NA,NA
+CL,1,15,75,0,120,70,NA,NA,NA
+CL,1,16,20,0,50,70,NA,NA,NA
+CL,1,17,30,0,50,60,NA,NA,NA
+CL,1,18,10,0,30,80,NA,NA,NA
+CL,1,19,20,0,60,60,NA,NA,NA
+CL,1,20,25,0,60,60,NA,NA,NA
+CL,2,1,10,0,15,80,NA,NA,NA
+CL,2,2,8,0,12,80,NA,NA,NA
+CL,2,3,6,0,8,70,NA,NA,NA
+CL,2,4,6,0,10,60,NA,NA,NA
+CL,2,5,1.5,0,3,80,NA,NA,NA
+CL,2,6,4.5,0,9,60,NA,NA,NA
+CL,2,7,1.1,0,3.1,60,NA,NA,NA
+CL,2,8,4.6,0,10.1,69,NA,NA,NA
+CL,2,9,1.6,0,2.7,50,NA,NA,NA
+CL,2,10,2.6,0,6,69,NA,NA,NA
+CL,2,11,3.3,0,7.2,70,NA,NA,NA
+CL,2,12,7.7,0,12.2,29,NA,NA,NA
+CL,2,13,7.8,0,11.9,41,NA,NA,NA
+CL,2,14,4.5,0,9,60,NA,NA,NA
+CL,2,15,7.6,0,13.5,60,NA,NA,NA
+CL,2,16,2,0,4.5,89,NA,NA,NA
+CL,2,17,2.2,0,4.6,80,NA,NA,NA
+CL,2,18,1.8,0,4.4,71,NA,NA,NA
+CL,2,19,1.4,0,2.9,82,NA,NA,NA
+CL,2,20,3.6,0,6,60,NA,NA,NA
+CL,3,1,2,0,10,80,NA,NA,NA
+CL,3,2,4,0,15,61,NA,NA,NA
+CL,3,3,5,0,20,61,NA,NA,NA
+CL,3,4,6,0,14,55,NA,NA,NA
+CL,3,5,13,0,30,50,NA,NA,NA
+CL,3,6,3,0,7,52,NA,NA,NA
+CL,3,7,62,0,90,92,NA,NA,NA
+CL,3,8,13,0,31,74,NA,NA,NA
+CL,3,9,50,0,90,81,NA,NA,NA
+CL,3,10,7,0,20,51,NA,NA,NA
+CL,3,11,8,0,21,50,NA,NA,NA
+CL,3,12,5,0,10,79,NA,NA,NA
+CL,3,13,6,0,10,51,NA,NA,NA
+CL,3,14,2,0,7,51,NA,NA,NA
+CL,3,15,3,0,7,50,NA,NA,NA
+CL,3,16,3,0,9,54,NA,NA,NA
+CL,3,17,1,0,5,61,NA,NA,NA
+CL,3,18,1,0,5,50,NA,NA,NA
+CL,3,19,1,0,5,50,NA,NA,NA
+CL,3,20,3,0,10,50,NA,NA,NA
+CL,4,1,0,0,90,100,NA,NA,NA
+CL,4,2,200,0,300,90,NA,NA,NA
+CL,4,3,300,0,500,90,NA,NA,NA
+CL,4,4,500,0,1000,70,NA,NA,NA
+CL,4,5,90,0,250,81,NA,NA,NA
+CL,4,6,201,0,300,80,NA,NA,NA
+CL,4,7,288,0,700,80,NA,NA,NA
+CL,4,8,600,0,1000,85,NA,NA,NA
+CL,4,9,350,0,500,81,NA,NA,NA
+CL,4,10,475,0,700,95,NA,NA,NA
+CL,4,11,180,0,300,95,NA,NA,NA
+CL,4,12,15,0,20,70,NA,NA,NA
+CL,4,13,1115,0,2032,71,NA,NA,NA
+CL,4,14,51,0,100,71,NA,NA,NA
+CL,4,15,40,0,100,71,NA,NA,NA
+CL,4,16,100,0,150,70,NA,NA,NA
+CL,4,17,8,0,15,70,NA,NA,NA
+CL,4,18,11,0,15,70,NA,NA,NA
+CL,4,19,30,30,5000,70,NA,NA,Make min match mean 
+CL,4,20,250,0,450,95,NA,NA,NA
+CL,5,1,2,0,5,70,NA,NA,NA
+CL,5,2,30.5,0,50,90,NA,NA,NA
+CL,5,3,30,0,60,81,NA,NA,NA
+CL,5,4,30,0,40,70,NA,NA,NA
+CL,5,5,25,0,45,70,NA,NA,NA
+CL,5,6,8,0,15,70,NA,NA,NA
+CL,5,7,15,0,20,70,NA,NA,NA
+CL,5,8,26,0,40,70,NA,NA,NA
+CL,5,9,15,0,20,70,NA,NA,NA
+CL,5,10,4,0,8,70,NA,NA,NA
+CL,5,11,4,0,8,90,NA,NA,NA
+CL,5,12,1,0,4.5,60,NA,NA,NA
+CL,5,13,15,0,20,79,NA,NA,NA
+CL,5,14,8,0,15,70,NA,NA,NA
+CL,5,15,14,0,20,67,NA,NA,NA
+CL,5,16,3,0,6,70,NA,NA,NA
+CL,5,17,4,0,8,70,NA,NA,NA
+CL,5,18,30,0,60,70,NA,NA,NA
+CL,5,19,30,0,50,70,NA,NA,NA
+CL,5,20,1,0,5,71,NA,NA,NA
+EM,1,1,5,0,11,25,Other,Depends on the size of the property.  depends on the dominant tick species in the area.  depends on the weather conditions.  depends on the time of year.,
+EM,1,2,4,0,11,50,Other,I am fairly sure that short grass doesn't affect tick numbers  but that has only been evaluated a few times,
+EM,1,3,1,0,4,80,,,
+EM,1,4,1,0,5,80,,,
+EM,1,5,3,0,11,65,,,
+EM,1,6,2,0,4,91,,"Our recent data show 1/3 of ticks collected come from high use areas typically not considered part of ""tick habitat"" ",
+EM,1,7,0,0,0,90,,,
+EM,1,8,4,0,8,95,,,
+EM,1,9,1,0,4,40,Lack of data,,
+EM,1,10,2,0,4,75,,,
+EM,1,11,4,0,11,50,Lack of data,There is such conflicting evidence on the use of tick tubes and tick numbers,
+EM,1,12,4,0,12,100,,,
+EM,1,13,3,0,8,65,,,
+EM,1,14,4,0,11,100,,This is not going to have any effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,15,4,0,12,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,16,4,0,12,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,17,4,0,11,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,18,4,0,11,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,19,4,0,11,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,1,20,4,0,11,100,,No effect on tick numbers,"Should these values match ""do nothing""?"
+EM,2,1,1.6,0,7,30,Lack of data,So many factors go into this (behavior; their property; use of the property; setting of the property; etc.),
+EM,2,2,1.5,0,7,40,Lack of data,,
+EM,2,3,1.3,0,5.1,40,Lack of data,,
+EM,2,4,1.5,0,6.1,42,Lack of data,,
+EM,2,5,1.5,0,7,40,Lack of data,,
+EM,2,6,1.5,0,7,40,Lack of data,,
+EM,2,7,0.4,0,1.5,70,Lack of data,,
+EM,2,8,1.5,0,7,60,Lack of data,,
+EM,2,9,0.5,0,3,70,Lack of data,,
+EM,2,10,0.6,0,3,60,Lack of data,,
+EM,2,11,0.8,0,7,50,Lack of data,,
+EM,2,12,1.5,0,7,61,Lack of data,,
+EM,2,13,1.5,0,4.9,50,Lack of data,,
+EM,2,14,0.2,0,1,71,,,
+EM,2,15,1.5,0,6,0,,,
+EM,2,16,0.2,0,0.5,90,,,
+EM,2,17,0.6,0,2,41,Lack of data,,
+EM,2,18,1,0,3,61,Lack of data,,
+EM,2,19,1.5,0,5.1,50,Lack of data,,
+EM,2,20,1.2,0,6,50,Lack of data,,
+EM,3,1,0,0,0,100,,,
+EM,3,2,20,4,40,70,,,
+EM,3,3,13,4,29,50,Lack of data,,
+EM,3,4,40,6,51,42,Lack of data,,
+EM,3,5,11,6,21,60,Lack of data,,
+EM,3,6,0,0,0,90,,,
+EM,3,7,50,25,61,70,,,
+EM,3,8,50,24,70,60,Lack of data,,
+EM,3,9,44,11,50,60,Lack of data,,
+EM,3,10,10,5,30,80,,,
+EM,3,11,5,3,20,90,,,
+EM,3,12,0,0,0,100,,,
+EM,3,13,46,10,50,40,Lack of data,,
+EM,3,14,5,0,8,81,,Making the product and disposal has a small impact,
+EM,3,15,3,0,6,81,,Making the product and disposal has a small impact,
+EM,3,16,3,0,7,100,,Arguably the process of making the product; making the lothes; and disposal is a small impact.,
+EM,3,17,0,0,0,100,,,
+EM,3,18,3,0,5,83,,,
+EM,3,19,3,0,9,86,,Arguably electricity and water use is a small impact,
+EM,3,20,41,20,70,60,Lack of data,Depends on the product. Lots of info coming out about the use of fipronil on pets getting into the waterway. ,
+EM,4,1,0,0,0,100,,,
+EM,4,2,108,21,612,100,,Gas and/or hiring a service (assuming they have a mower) ,
+EM,4,3,54,21,108,90,,,
+EM,4,4,378,105,630,70,,One time cost and then weeding/spray to maintain,
+EM,4,5,18,18,72,80,,,Make min match mean
+EM,4,6,21,0,126,90,,,
+EM,4,7,190,42,613,61,Other,DIY or PMP will matter less confident in prices of PMP services,
+EM,4,8,127,42,529,60,Other,DIY or PMP will also matter for this question,
+EM,4,9,148,42,571,60,Other,Same DIY or PMP will matter here,
+EM,4,10,738,316,1014,79,,I don't know the exact pricing these days but these are expensive and professionals have to put them down and maintain them.,
+EM,4,11,169,84,297,80,,,
+EM,4,12,0,0,0,100,,,
+EM,4,13,2952,1012,5000,70,,I don't know what the cost of deer fencing is but my guess that to do an acre is even more than 5000,
+EM,4,14,42,21,65,80,,,
+EM,4,15,105,42,213,71,,,
+EM,4,16,126,42,402,50,Other,Depends on if they buy it treated or treat it themselves,
+EM,4,17,0,0,0,100,,,
+EM,4,18,21,21,65,66,,Cost of water!,
+EM,4,19,42,21,128,71,,,
+EM,4,20,295,105,508,51,Lack of data,vet visits are not cheap so the cost of a visit; the treatment; reapplication. Even if not using a vet the cost of the product each month,
+EM,5,1,0,0,0,100,,,
+EM,5,2,15,4.5,23,70,,Depends on how much there is to target for this intervention (i.e.  how much space),
+EM,5,3,3.5,1.5,7,49,,Depends on how much there is to target for this intervention (i.e.  how much space),
+EM,5,4,4.5,2.5,15,60,Lack of data,,
+EM,5,5,1.5,1.5,8.5,60,,Depends on how much there is to target for this intervention (i.e.  how much space),Make min match mean 
+EM,5,6,1.5,1.5,4,90,,,
+EM,5,7,2.5,2.5,9,60,Lack of data,Depends on how much there is to target for this intervention (i.e.  how much space),Make min match mean
+EM,5,8,2.5,2,9,60,Lack of data,,
+EM,5,9,2.5,2,9.5,60,,,
+EM,5,10,1,0,2,80,,Have to hire pest management for this so personal homeowner effort is low,
+EM,5,11,4,3,7,81,,,
+EM,5,12,0.5,0.5,0.5,90,,,
+EM,5,13,16.5,8,24,60,Lack of data,,
+EM,5,14,1,0.5,2.5,80,,,
+EM,5,15,1,0.5,2.5,80,,,
+EM,5,16,0.5,0.5,2,80,,,
+EM,5,17,3,0.5,7.5,13,Lack of data,Depends on frequency they are outside,
+EM,5,18,1.5,0.5,4.5,17,Lack of data,depends on frequency they are outside,
+EM,5,19,1.5,0.5,5,18,Lack of data,depends on frequency they are outside,
+EM,5,20,1.5,0,6,20,Lack of data,Vet or DIY  includes going to vet or store to get product and apply it,
+HG,1,1,60,5,150,90,,These are estimates based on samples in sites with high tick densities in the adjacent woods.,NA
+HG,1,2,15,2,150,50,Lack of data,I have never directly studied the effects of low vs. high mowing.,NA
+HG,1,3,25,4,60,60,Lack of data,Maupin et al. (1991) indicate that tick numbers at the ecotone are roughly half of those in the adjacent woods but about ten times the numebr on the lawn proper. Cleaning the edges would lower the numbers at the edge of the lawn but it depends on the configuration (overhanging tree branches etc.) and had not to my knowledge been studied sufficiently to make a quantified statement.,NA
+HG,1,4,15,3,45,60,Lack of data,A  gravel barrier would discourage tick presence because of dry conditions but a mulch barrier might not be as effective if the mulch remains moist.  I know of no data comparing these approaches that would be broadly applicable.,NA
+HG,1,5,15,3,45,60,Lack of data,Leaf litter removal will lower tick densities substantially but few studies have quantified this and those results might not apply in other situations.,NA
+HG,1,6,25,5,75,70,,Will not really lower tick numbers overall but will help avoid tick-human contact.,NA
+HG,1,7,15,1,75,80,,Studies have shown effectiveness from about 50% to nearly 100% of synthetic pesticide applications.,NA
+HG,1,8,45,2,150,70,,Depends on the product. Dyer et al (2021) showed effectiveness ranging from zero% to near 100% for different products.  Residual activity tended to be low,NA
+HG,1,9,20,2,75,60,Other,Few studies.  Granulars have the advantage of good targeting (controls ticks on the ground while avoiding pollinators on  overall effectiveness has not been that well studied (I know of one study comparing granulars to other formulations).flowers).  However,NA
+HG,1,10,45,4,100,70,,Several studies have looked at bait boxes and some found reasonable efficacy but results varied.,NA
+HG,1,11,50,2,150,70,,I have studied this approach myself (Ginsberg 1992).  Tick numbers were not consistently lowered but infection rates with B. burgdorferi were lowered in some trials.  The local environment completeness of coverage and availability of alternative nesting materials for mice appeared to be important.,NA
+HG,1,12,55,4,150,60,,Studies have shown some degree of effectiveness but a lot depends on other factors (e.g. the habitat conditions near and under the feeders).,NA
+HG,1,13,40,2,150,70,,This depends on the size of the fenced area the type of fencing and the habitat outside and within the fenced area.  Can deer jump the fence?  Can small and medium-sized animals get through?  The larger the fenced area and the greater the range of animals that are excluded,NA
+HG,1,14,60,5,150,90,,This can be highly effective at preventing tick bites but has essentially no effect on the number of ticks on the property.,NA
+HG,1,15,60,5,150,90,,This can be highly effective at preventing tick bites but has essentially no effect on the number of ticks on the property.,NA
+HG,1,16,60,5,150,90,,This can be effective at preventing tick bites but has essentially no effect on the number of ticks on the property.,NA
+HG,1,17,60,5,150,90,,This can be highly effective at preventing tick bites but has essentially no effect on the number of ticks on the property.,NA
+HG,1,18,60,5,150,90,,This can be highly effective at preventing tick bites but has essentially no effect on the number of ticks on the property.,NA
+HG,1,19,60,5,150,90,,,NA
+HG,1,20,60,5,150,90,,Can protect pets but not lower tick numbers on property.,NA
+HG,2,1,3,1,15,60,,Depends on where the property is located.,NA
+HG,2,2,1,0.2,7.5,80,,Dry conditions kill immature ticks.,NA
+HG,2,3,2,0.8,8,70,,Depends on where the people spend time and whether primary tick encounter is on property.,NA
+HG,2,4,1.5,0.6,8,70,,As long as people stay on lawn (and don't venture into woods).,NA
+HG,2,5,1.5,0.8,8,70,,Will lower tick encounter.,NA
+HG,2,6,1,0.2,7,80,,Very few ticks on lawn proper.  Moving play areas  chairs tables  and decorative fencing to keep people >10 feet from wood edge should very effectively lower numbers of tick bites.,NA
+HG,2,7,1,0.1,10,60,, Lowers numbers of ticks substantially but some studies have not shown lowered disease risk.  Perhaps much of tick exposure is not on personal property.,NA
+HG,2,8,2,0.2,10,60,Lack of data,No real data. Probabky provide some protection if used conscientiously,NA
+HG,2,9,1.5,0.2,10,60,Lack of data,Probably provides protection but data are thin.,NA
+HG,2,10,1.5,0.2,10,60,Lack of data,Provides some protection under appropriate conditions but results are variable.,NA
+HG,2,11,1.7,0.2,10,60,Lack of data,Provides some protection under appropriate conditions but results are variable.,NA
+HG,2,12,2,0.8,10,50,Lack of data,,NA
+HG,2,13,1.7,0.3,8,70,Lack of data,Will have some effect after a period of time (years)if fenced area is large enough. Otherwise ticks can move in on smaller animals.,NA
+HG,2,14,0.5,0.3,6,80,,Can be very effective if used conscientiously.,NA
+HG,2,15,0.5,0.4,6,80,,Can be very effective if appropriate product is used conscientiously and applied often enough (some products are not effective).,NA
+HG,2,16,0.5,0.3,6,80,,Can be very effective if used conscientiously.,NA
+HG,2,17,0.5,0.3,7,80,,Can be very effective if used conscientiously.,NA
+HG,2,18,0.5,0.3,8,80,,Can be very effective if ticks are removed immediately.,NA
+HG,2,19,1,0.5,8,80,,Doing the laundry and drying clothes will not effect current risk of tick bite but will kill ticks on clothes and prevent future exposure from those clothes.,NA
+HG,2,20,1,0.5,8,70,Lack of data,Treating pets will lower risk of tick bites for pets but will have minimal effect on your risk (perhaps some tick bites within homes but few because blacklegged ticks do not survive long in the dry indoor environment).,NA
+HG,3,1,10,5,50,70,,Lawn already has impact  which I arbitrarily set at 10.,NA
+HG,3,2,15,10,50,70,,Low mowing will impact some non-targets.,NA
+HG,3,3,15,12,50,70,,Removing edge vegetation will affect some nontargets.,NA
+HG,3,4,15,12,50,70,,An artificial barrier will affect some nontargets.,NA
+HG,3,5,15,12,50,0,,Removal of leaf litter will affect some nontargets.,NA
+HG,3,6,10,5,30,70,,Minimal effect beyond presence of lawn.,NA
+HG,3,7,40,20,80,70,,Substantial effect; depends on product  formulation  timing of application etc,NA
+HG,3,8,30,15,70,70,,Depends on product used  specifics of application etc.,NA
+HG,3,9,35,18,75,70,Lack of data,"Probably lower effect than spray,  but will likely affect soil and litter fauna.",NA
+HG,3,10,15,12,30,80,,Primary effect on rodent ectoparasites.,NA
+HG,3,11,15,12,30,70,,Primary effect on rodent ectoparasites.,NA
+HG,3,12,15,12,40,70,,Likely effect on feeder birds  which are already doing better than wild species.,NA
+HG,3,13,15,12,50,70,,Might affect some animal movement  but area is presumably already highly impacted by residential development.,NA
+HG,3,14,10,5,20,70,,Minimal if any environmental impact.,NA
+HG,3,15,10,5,20,0,,Minimal if any environmental impact.,NA
+HG,3,16,12,5,20,70,,Minimal if any environmental impact  other than killing some ectoparasites.,NA
+HG,3,17,0,0,10,80,,No environmental impact.,Make min match mean
+HG,3,18,0,0,10,80,,No environmental impact.,Make min match mean
+HG,3,19,0,0,10,80,,No environmental impact.,Make min match mean
+HG,3,20,12,5,20,70,,Minimal if any environmental impact  other than killing some ectoparasites.,NA
+HG,4,1,0,0,0,100,,,NA
+HG,4,2,504,25,1528,60,Other,Depends on whether homeowner mows or extra charges of hired landscaper.,NA
+HG,4,3,396,25,1007,50,Lack of data,Depends on whether homeowner mows or extra charges of hired landscaper.,NA
+HG,4,4,1529,250,2985,51,Other,Depends on self installation costs or charges of landscaper  size of property etc,NA
+HG,4,5,503,100,2014,51,Other,Depends on whether homeowner does work or extra charges of hired landscaper.,NA
+HG,4,6,414,100,5000,50,Other,Homeowner can do it yourself or hire workers at variable cost.  Decorative fencing to keep people away from forest edge could be quitre expensive.,NA
+HG,4,7,431,150,2968,50,Other,Depends on market costs of materials  size of property  # applications  and/or pest control company costs.,NA
+HG,4,8,431,200,2068,50,Other,Depends on market costs of materials size of property  # applications  and/or pest control company costs.,NA
+HG,4,9,432,175,2068,50,Other,Depends on market costs of materials size of property  # applications  and/or pest control company costs.,NA
+HG,4,10,576,250,2500,41,Other,I don't know the costs; depends on size of property.,NA
+HG,4,11,504,250,2500,40,Other,I don't know the costs; depends on size of property.,NA
+HG,4,12,0,0,0,70,,I assume the homeowner removes the feeders.,NA
+HG,4,13,2482,1000,5000,40,Other,Depends on size of property. Can be very expensive.,NA
+HG,4,14,108,50,504,71,,,NA
+HG,4,15,108,50,504,70,,,NA
+HG,4,16,108,50,504,70,,,NA
+HG,4,17,0,0,0,91,,,NA
+HG,4,18,0,0,0,90,,,NA
+HG,4,19,0,0,0,91,,,NA
+HG,4,20,108,50,504,71,,,NA
+HG,5,1,0,0,0,100,,,NA
+HG,5,2,10,5,26,61,Other,Required number of extra mows is variable; depends on size of property rainfall etc.,NA
+HG,5,3,5,3,10.5,50,Other,Depends on size of property.,NA
+HG,5,4,10,5,30,61,Other,Depends on size of property.,NA
+HG,5,5,3,2,15,60,Other,Depends on size of property.,NA
+HG,5,6,3,2,30,60,Other,Normally just a few hours; much longer to install decorative fencing.,NA
+HG,5,7,5,2,15,60,Other,Depends on number of applications (primarily just one needed early in nymphal season but can be four or more depending on circumstances).,NA
+HG,5,8,8,2,20,60,Other,Probably more applications needed than for synthetic sprays.,NA
+HG,5,9,4,2,10,61,Other,Typically just one application needed (sometimes two).,NA
+HG,5,10,6,3,15,60,Other,I assume they are deployed twice per year; time depends on size of property.,NA
+HG,5,11,6,3,15,60,Other,I assume they are deployed twice per year; time depends on size of property.,NA
+HG,5,12,1,0.5,10,60,,,NA
+HG,5,13,10,8,75,50,Other,Depends on size of property.,NA
+HG,5,14,3,2,15,70,,,NA
+HG,5,15,5,4,15,70,,,NA
+HG,5,16,2,1,10,70,,,NA
+HG,5,17,10,5,20,70,,Should be frequent when in natural areas.,NA
+HG,5,18,3,2,10,80,,Takes some time but one would typically shower after coming indoors anyway.,NA
+HG,5,19,4,2,15,70,,Not much more time than normal laundry runs during tick season.,NA
+HG,5,20,2,1,10,70,,Only needs to be done infrequently with current products.,NA
+JB,1,1,45,0,150,80,,This is a very wide range of potential estimates as it will depend broadly on where you are collecting and tick populations are spatially heterogenous.,NA
+JB,1,2,45,0,150,80,,"Mowing lawns as a tick control intervention has received limited attention, but in the few studies that have investigated this intervention, no impact has been observed on tick densities. The first paper examines the effect in residential lawns, while the second is focused on hiking trails. The main issue appears to be that tick densities are generally low in lawns, so it is hard to detect a significant effect. Lerman, S. B., & D’Amico, V. (2019). Lawn mowing frequency in suburban areas has no detectable effect on Borrelia spp. vector Ixodes scapularis (Acari: Ixodidae). PLoS One, 14(4), e0214615. Lee, X., Maxson, G. A., & Paskewitz, S. (2023). Single mowing event does not reduce abundance of Ixodes scapularis (Acari: Ixodidae) and Dermacentor variabilis (Acari: Ixodidae) on recreational hiking trails. Journal of Medical Entomology, 60(1), 228-234.",NA
+JB,1,3,20,0,75,60,Other,"Removal of understory vegetation has been shown to reduce tick densities by ~ 50% in some cases, although this might depend on the type of understory as much of this work has been focused on Japanese barberry, which forms a very thick understory. Williams, S. C., & Ward, J. S. (2010). Effects of Japanese barberry (Ranunculales: Berberidaceae) removal and resulting microclimatic changes on Ixodes scapularis (Acari: Ixodidae) abundances in Connecticut, USA. Environmental entomology, 39(6), 1911-1921.",NA
+JB,1,4,45,0,150,80,,I do not believe that a mulch or gravel barrier will significantly impact tick densities  but rather may act as a barrier between edge habitat and lawns to reduce contact rates.,NA
+JB,1,5,30,0,90,70,,"Litter removal and accumulation have been shown to impact tick densities and litter removal has been shown to impact tick survival in microcosms. Litter removal has mostly been tested in forested landscapes, rather than in edge habitat. I think there may be less of an impact on tick densities when removing leaf litter when understory is present, where it can provide additional protective effects. Schulze, T. L., Jordan, R. A., & Hung, R. W. (1995). Suppression of subadult Ixodes scapularis (Acari: Ixodidae) following removal of leaf litter. Journal of medical entomology, 32(5), 730-733. Jordan, R. A., & Schulze, T. L. (2020). Artificial accumulation of leaf litter in forest edges on residential properties via leaf blowing is associated with increased numbers of host-seeking Ixodes scapularis (Acari: Ixodidae) nymphs. Journal of medical entomology, 57(4), 1193-1198. Linske, M. A., Stafford III, K. C., Williams, S. C., Lubelczyk, C. B., Welch, M., & Henderson, E. F. (2019). Impacts of deciduous leaf litter and snow presence on nymphal Ixodes scapularis (Acari: Ixodidae) overwintering survival in coastal New England, USA. Insects, 10(8), 227. Burtis, J. C., & Pflueger, C. (2017). Interactions between soil?dwelling arthropod predators and Ixodes scapularis under laboratory and field conditions. Ecosphere, 8(8), e01914.",NA
+JB,1,6,2,0,15,100,,I think this intervention will be very effective. Surveys of ticks in lawns have found very low densities relative to forested or edge habitat.,NA
+JB,1,7,4,0,30,90,,"Synthetic spray acaricides have been well-tested and shown to be fairly effective in suppressing ticks. The amount of suppression can vary depending on the application, but I am confident that a relatively high level of suppression would be achieved. This paper is missing some newer study, but is a great overview: Eisen, L., & Dolan, M. C. (2016). Evidence for personal protective measures to reduce human contact with blacklegged ticks and for environmentally based control methods to suppress host-seeking blacklegged ticks and reduce infection with Lyme disease spirochetes in tick vectors and rodent reservoirs. Journal of medical entomology, 53(5), 1063-1092.",NA
+JB,1,8,35,0,135,90,,"Natural (25(b) exempt) acaricides have been show to have limited impact on tick densities or survival in trials. There is also enormous variation between products, making it difficult to expect any consistent suppression. Eisen, L. (2024). Efficacy of unregulated minimum risk products to kill and repel ticks. Emerging Infectious Diseases, 30(1), 1. Dyer, M. C., Requintina, M. D., Berger, K. A., Puggioni, G., & Mather, T. N. (2021). Evaluating the effects of minimal risk natural products for control of the tick, Ixodes scapularis (Acari: Ixodidae). Journal of medical entomology, 58(1), 390-397.",NA
+JB,1,9,4,0,30,90,,"Similar to sprays, granular applications have been show to be highly effective in controlling ticks.",NA
+JB,1,10,30,0,90,50,Other,"Bait boxes have shown high efficacy in some studies and low in others. The bait uptake by mice seems variable depending somewhat on the ecology of the area. This makes it difficult to provide an estimate for the level of tick suppression expected. Schulze, T. L., Jordan, R. A., Williams, M., & Dolan, M. C. (2017). Evaluation of the SELECT tick control system (TCS), a host-targeted bait box, to reduce exposure to Ixodes scapularis (Acari: Ixodidae) in a Lyme disease endemic area of New Jersey. Journal of medical entomology, 54(4), 1019-1024. Dolan, M. C., Maupin, G. O., Schneider, B. S., Denatale, C., Hamon, N., Cole, C., ... & Stafford, K. C. (2004). Control of immature Ixodes scapularis (Acari: Ixodidae) on rodent reservoirs of Borrelia burgdorferi in a residential community of southeastern Connecticut. Journal of medical entomology, 41(6), 1043-1054. Machtinger, E. T., & Li, A. Y. (2019). Tick control bait box use by Peromyscus spp. influenced by habitat placement but raises questions on disease ecology. Ecosphere, 10(12), e02972.",NA
+JB,1,11,35,0,102,30,Other,"As with bait boxes, results vary somewhat with tick tubes, but there has been less study of this method. Again efficacy seems to be dependent on the ecology of the deployment location, but without better data, I am not particularly confident in my estimates. Green, K. D., Tiffin, H. S., Brown, J. E., Burgess IV, E. R., & Machtinger, E. T. (2022). Evaluation of tick control tube month of placement and modifications to increase visitation by small mammals. Ecosphere, 13(7), e4155. Tiffin, H. S., Green, K. D., Burgess IV, E. R., & Machtinger, E. T. (2024). Maximizing and sustaining the efficacy of tick tubes for management of Ixodes scapularis through optimized deployment strategies. Journal of medical entomology, 61(6), 1459-1469. Brown, J. E., Miller, T. M., & Machtinger, E. T. (2020). Tick tubes reduce blacklegged tick burdens on white?footed mice in Pennsylvania, USA. Journal of Applied Entomology, 144(6), 542-545. Mandli, J. T., Lee, X., Bron, G. M., & Paskewitz, S. M. (2021). Integrated tick management in south central Wisconsin: impact of invasive vegetation removal and host-targeted acaricides on the density of questing Ixodes scapularis (Acari: Ixodidae) nymphs. Journal of Medical Entomology, 58(6), 2358-2367.",NA
+JB,1,12,40,0,121,30,Other,"There is limited study on the effect of bird feeders on ticks. I would imagine food would attract hosts to that location, and ticks might drop off, but how strong the impact would be is hard to estimate.",NA
+JB,1,13,21,0,100,50,,"The effect of deer fencing on tick densities is somewhat variable in the literature. I would expect some effect, but it will depend largely on the size of the area fenced and whether there are alternative hosts available that can move tick through the fence, which is why I am not particularly confident in my estimates here. Del Fabbro, S. (2015). Fencing and mowing as effective methods for reducing tick abundance on very small, infested plots. Ticks and tick-borne diseases, 6(2), 167-172. Connally, N. P., Hornbostel, V. L., Dyer, M. C., Hojgaard, A., Osikowicz, L. M., Christopher, D. A., & Mather, T. N. (2025). The impact of deer exclusion fencing on host-seeking blacklegged ticks on suburban residential properties in southern New England. Journal of Medical Entomology, 62(5), 1208-1220.",NA
+JB,1,14,4,0,30,90,,"If used appropriately, synthetic repellents are very effective in avoiding ticks. The main issue appears to be that people do not use them. Beck, A., Bjork, J., Biggerstaff, B. J., Eisen, L., Eisen, R., Foster, E., ... & Hinckley, A. F. (2022). Knowledge, attitudes, and behaviors regarding tick-borne disease prevention in Lyme disease-endemic areas of the Upper Midwest, United States. Ticks and tick-borne diseases, 13(3), 101925.",NA
+JB,1,15,40,0,140,90,,"Natural repellents have shown limited and highly variable efficacy and what is more those that do work appear to wear off quickly. They may have some small protective effect, but are unlikely to provide long lasting protection against tick bites. Eisen, L. (2024). Efficacy of unregulated minimum risk products to kill and repel ticks. Emerging Infectious Diseases, 30(1), 1. Burtis, J. C., Ford, S. L., Parise, C. M., Eisen, R. J., & Eisen, L. (2024). Efficacy of unregulated minimum risk tick repellent products evaluated with Ixodes scapularis nymphs in a human skin bioassay. Parasites & Vectors, 17(1), 50. Luker, H. A., Salas, K. R., Esmaeili, D., Holguin, F. O., Bendzus-Mendoza, H., & Hansen, I. A. (2023). Repellent efficacy of 20 essential oils on Aedes aegypti mosquitoes and Ixodes scapularis ticks in contact-repellency assays. Scientific reports, 13(1), 1705.",NA
+JB,1,16,2,0,20,90,,"Permethrin treated clothing is very effective in repelling ticks. The treatment does wear off over time, but I think this is a very effective prevention measure. Davidson, S. A., Nun, D. J., Chellaraj, A. H., Johnson, J. Y., Burgess, A. M., Dehemer, S., & Milner, E. E. (2024). Reduced effectiveness of permethrin-treated military uniforms after prolonged wear measured by contact irritancy and toxicity bioassays with Ixodes scapularis (Acari: Ixodidae) nymphs. Journal of Medical Entomology, 61(5), 1181-1189. Connally, N. P., Rose, D. A., Breuner, N. E., Prose, R., Fleshman, A. C., Thompson, K., ... & Eisen, L. (2019). Impact of wearing and washing/drying of permethrin-treated clothing on their contact irritancy and toxicity for nymphal Ixodes scapularis (Acari: Ixodidae) ticks. Journal of medical entomology, 56(1), 199-214.",NA
+JB,1,17,45,0,150,100,,"This intervention should reduce tick bites, but not contact rates with questing ticks in the environment.",NA
+JB,1,18,45,0,150,100,,"This intervention should reduce tick bites, but not contact rates with questing ticks in the environment.",NA
+JB,1,19,45,0,150,100,,"This intervention should reduce tick bites, but not contact rates with questing ticks in the environment.",NA
+JB,1,20,25,0,93,50,Other,"There is not a ton of research relating tick encounter rates with pet treatment. We know that pet ownership will increase encounter rates, so I expect treatment to reduce them, but I am not particularly confident in my estimate here. Jones, E. H., Hinckley, A. F., Hook, S. A., Meek, J. I., Backenson, B., Kugeler, K. J., & Feldman, K. A. (2018). Pet ownership increases human risk of encountering ticks. Zoonoses and public health, 65(1), 74-79.",NA
+JB,2,1,3,0,15,50,Lack of data,"I do not have great data for the number of tick bites that an average person in New England might get. I expect the range would be wide, but mean might be on the lower end, as the average person might spend less time in tick habitat than in their lawn.",NA
+JB,2,2,3,0,15,80,,"Considering limited efficacy of this intervention, I do not expect a strong effect here.",NA
+JB,2,3,2,0,6,40,Lack of data,"I expect this might reduce the higher end of my estimates for tick bites as those people might be spending more time in tick habitat where this intervention would have the strongest effect. That said, there is limited data available to connect the intervention to tick bite number, so I have limited confidence in this estimate.",NA
+JB,2,4,2.1,0,9,40,Lack of data,"I expect the barrier could act as a visual reminder for people to stay out of tick habitat, but again I have limited confidence in this estimate.",NA
+JB,2,5,6,0,15,20,Lack of data,"This is a little counter intuitive, but I could see a scenario where this actually increases contact rates with ticks, particularly when removing leaf litter from edge habitat as it could encourage people to enter tick habitat on their property when they would not usually. I have low confidence in this estimate, but see a possibility.",NA
+JB,2,6,0.5,0,2,90,,I think encouraging people to stay out of tick habitat is a very effective intervention.,NA
+JB,2,7,1.9,0,7.4,60,Other,"Spraying acaricides should reduce tick bite risk on their property, but it will depend on how broadly the acaricides are applied. If only a boundary spray along edge habitat there may still be risk if people enter tick habitat or if animals bring ticks into an untreated yard. There is a lot of human behavior involved that reduces my confidence in the estimates.",NA
+JB,2,8,5,0,15,70,,"Considering the low efficacy of natural products, I think it is possible tick bites could increase if people are less diligent about using personal protective measures.",NA
+JB,2,9,1.9,0,7.4,60,Other,"Granular acaricides should reduce tick bite risk, but again the efficacy in reducing tick bites will on how broadly the acaricides are applied. ",NA
+JB,2,10,2,0,9,20,Other,"I expect some reduction in the number of tick bites, since bait boxes have been shown to be effective in some situations, but I have limited confidence in my estimates for the level of reduction as there are no studies directly connecting tick bites to bait box use.",NA
+JB,2,11,2.4,0,12,20,Lack of data,"Similar to bait boxes, I expect some reduction in the number of tick bites, but I have limited confidence in my estimates for the level of reduction as there are no studies directly connecting tick bites to tick tube use.",NA
+JB,2,12,2.6,0,12,10,Lack of data,"Removing wildlife feeders could reduce tick bites, but the lack of data relating to this intervention means I have very little confidence in my estimates.",NA
+JB,2,13,2.2,0,9,20,Other,"I expect deer fencing will have some impact on tick densities, but how that will translate to tick bites on people is difficult to determine.",NA
+JB,2,14,0.5,0,4.5,90,,"If used appropriately, I expect synthetic repellents to be very effective in reducing the number of tick bites.",NA
+JB,2,15,4.5,0,15,40,Other,"I expect tick bites to increase if people are using an ineffective product that they believe provides them protection. I have limited data to support this, so my confidence in this estimate is low.",NA
+JB,2,16,0.1,0,1.5,90,,"If used appropriately and permethrin is re-applied to clothing, I expect a high level of protection against tick bites.",NA
+JB,2,17,0.5,0,3,70,,"Tick checks should help reduce the number of ticks that bite people, but I left some risk, since a tick can bite before it is found and many people do not know what a tick looks like, so might not be able to find them properly during a check.",NA
+JB,2,18,2,0,9,60,Lack of data,"I expect some reduction of tick bites when showering because it gives people a chance to find a tick they missed during a check. I do not have good data for how much this would reduce risk, so my confidence in the estimates is moderate-to-low.",NA
+JB,2,19,2,0,9,60,Lack of data,"Similar to a shower, I expect this to be a good way to kill ticks that were not found during a tick check, but I am not sure to exactly what degree tick bites would be reduced.",NA
+JB,2,20,2,0,10,80,,"Data show ~ 1.5 x increase in the risk of tick bite when people own pets, so I expect pet treatment to reduce the risk by approximately that much.",NA
+JB,3,1,0,0,0,100,,No intervention should have no impact on the environment.,NA
+JB,3,2,10,0,20,90,,"This intervention could have small impacts on soil invertebrates and other arthropods, but lawns are hardly natural habitats, so I expect limited impact of mowing.",NA
+JB,3,3,20,10,40,80,,Removing vegetation from a typically species-rich area (edge habitat) will impact wildlife and plant communities.,NA
+JB,3,4,5,0,10,80,,"This will impact the immediate area where the barrier is put in place, but overall is unlikely to have a strong environmental impact.",NA
+JB,3,5,13,5,30,60,Other,"Removing leaf litter will impact the natural biotic community, but the strength of the effect will vary depending on whether the leaf litter is removed predominantly from a lawn, or if it is being removed from edge habitat where it could impact nutrient cycling and vegetation. These variables give me lower confidence in my estimates.",NA
+JB,3,6,0,0,0,100,,"If anything, I would expect a environmental benefit from removing people from edge habitat and forested areas.",NA
+JB,3,7,35,20,50,80,,"Synthetic acaricides are not specifically targeted to ticks, so I would expect non-target impacts on arthropod communities (including polinators). Studies are rare, so the exact impact is hard to estimate, but there should be some minimal impact to the immediate application area. Bickerton, M., Rochlin, I., González, J., McSorley, K., & Toledo, A. (2022). Field applications of granular and liquid pyrethroids, carbaryl, and IGRs to control the Asian longhorned tick (Haemaphysalis longicornis) and impacts on nontarget invertebrates. Ticks and Tick-borne Diseases, 13(6), 102054.",NA
+JB,3,8,5,0,10,70,,"The non-target impact of 25(b) exempt acaricides is not well-studied. That said, considering their limited efficacy for tick control, I expect non-target effects to be similarly limited.",NA
+JB,3,9,35,20,50,80,,"I expect a similar non-target effect to synthetic spray acaricides, although the specific organisms affected may differ.",NA
+JB,3,10,12,5,20,60,Lack of data,"This is a fairly targeted application of acaricide, so I do not expect widespread non-target impacts, but there are no studies investigating this, so my confidence in these estimates is only moderate.",NA
+JB,3,11,12,5,20,60,,"Similar to bait boxes, the application is targeted, so I do not expect widespread non-target impacts, but again there are no studies to support this, so my confidence in these estimates is moderate.",NA
+JB,3,12,0,0,0,100,,"This might be my ecology background, but since this food was added to the ecosystem, I would not consider removing it to be an impact. That said, the removal of food might reduce animal numbers to their natural level.",NA
+JB,3,13,55,40,70,80,,"Deer fencing can have relatively strong impacts on ecosystems, particularly plant communities. These are generally considered positive impacts, as native plants often do better when deer are excluded, but I would expect to see a fairly dramatic change if the fencing is effective in excluding deer. McGarvey, J. C., Bourg, N. A., Thompson, J. R., McShea, W. J., & Shen, X. (2013). Effects of twenty years of deer exclusion on woody vegetation at three life-history stages in a mid-Atlantic temperate deciduous forest. Northeastern Naturalist, 20(3), 451-468. Dobson, A., & Blossey, B. (2015). Earthworm invasion, white?tailed deer and seedling establishment in deciduous forests of north?eastern North America. Journal of Ecology, 103(1), 153-164.",NA
+JB,3,14,0,0,0,100,,I expect no impact of repellent use on the immediate environment of a home.,NA
+JB,3,15,0,0,0,100,,I expect no impact of repellent use on the immediate environment of a home.,NA
+JB,3,16,0,0,0,100,,I expect no impact of wearing permethrin-treated clothing on the immediate environment of a home.,NA
+JB,3,17,0,0,0,100,,Tick checks should not have an environmental impact.,NA
+JB,3,18,0,0,0,100,,"Showering should not have an environmental impact (beyond water use, but that is not relevant here).",NA
+JB,3,19,0,0,100,100,,Using a drier should not have an environmental impact.,NA
+JB,3,20,5,0,10,90,,"Treating pets might have some kind of minor non-target impact, but I expect it would be very limited and mostly impact other parasites.",NA
+JB,4,1,0,0,0,100,,Doing nothing should have no cost.,NA
+JB,4,2,150,50,500,90,,The cost of mowing could vary depending on whether a company is hired. It will always cost something for fuel and equipment maintenance.Â ,NA
+JB,4,3,250,200,600,90,,The cost will depend on whether a company is hired. I expect the baseline to be higher as more robust tools will be needed to remove brush than to cut grass.,NA
+JB,4,4,450,300,850,90,,Mulch can be expensive and it will depend if this is done by the homeowner or a company.,NA
+JB,4,5,100,10,300,0,,"The cost of leaf removal will depend on how much a company charges, if hired.",NA
+JB,4,6,35,0,500,90,,"This should be cheap-to-free, unless large items need to be moved.",NA
+JB,4,7,300,100,500,90,,"Generally, this should be a relatively cheap intervention.",NA
+JB,4,8,450,200,700,70,,"Natural sprays are often more expensive and need to be applied more often, but the cost is likely to vary, so my confidence in my estimates is lower than those for synthetic acaricides.",NA
+JB,4,9,300,100,500,90,,The costs for a granular application should be similar to using an acaricide spray.,NA
+JB,4,10,1750,1500,2000,80,,"Bait boxes are very expensive, so I put my low end estimation at the cost to treat one acre as calculated by Schulze et al (2023) and add some cost due to inflation since 2023.",NA
+JB,4,11,450,300,500,80,,I would expect most of the variation in cost to be related to whether the area is self-treated or the tick tubes are placed by the landowner.,NA
+JB,4,12,0,0,0,100,,This should not cost anything as it would actually save money as the land owner would not need to buy feed.,NA
+JB,4,13,3000,2000,5000,80,,Deer fencing is very expensive. The low-end estimate is for a self-installed fence. I actually expect the cost could be above $5000 for a professional job.Â ,NA
+JB,4,14,40,20,200,95,,This is a very cheap intervention that mostly scales with the number of people living in a household and the specific formulations used.,NA
+JB,4,15,150,100,300,95,,Natural products tend to be a little more expensive than synthetics and will likely need to be applied more often to stay effective.,NA
+JB,4,16,100,40,500,95,,"Self-treating permethrin-treated clothing is very cheap, but it can get more expensive if buying pre-treated clothing for multiple people living in a household.",NA
+JB,4,17,0,0,0,100,,Tick checks cost nothing but time.,NA
+JB,4,18,0,0,0,100,,"I thought about adding the cost of water, but since most people shower regularly anyway I kept the cost at $0.",NA
+JB,4,19,11,5,100,95,,"Just a little extra money added here for the electricity used, if a person regularly spend time in tick habitat and does a lot of extra loads in the dryer.",NA
+JB,4,20,200,100,400,95,,"This is a fairly realistic range for anti-tick treatment, depending on the method used.",NA
+JB,5,1,0,0,0,100,,No effort is needed to do nothing.,NA
+JB,5,2,8,2,30,90,,The variation in time spent is mostly based on how frequently the grass needs to be cut (which can vary depending on growing conditions).,NA
+JB,5,3,8,8,24,90,,"I generally expect it to take a workday day to trim back an acre of edge vegetation, but if could take longer if the understory is particularly thick, or this is the first time it has been trimmed.",NA
+JB,5,4,12,8,16,95,,I would expect a day or two to install a mulch barrier for one person.,NA
+JB,5,5,0,0,16,95,,"This will depend on whether the leaf removal is done by hand, or with a leaf blower or other machinery.",Make min match mean
+JB,5,6,1.5,1,10,95,,"I think for most people this would not be a large ask, but in some cases it could take some time (for example if a large play structure is in a forested area).",NA
+JB,5,7,4,3,12,50,Other,"This is based on the much smaller areas where I have applied pesticides on my personal property, so I have limited confidence in my estimates. I am also accounting for the possibility of multiple applications per year on the high end.",NA
+JB,5,8,4,3,12,50,,"This is based on the much smaller areas where I have applied pesticides on my personal property, so I have limited confidence in my estimates.",NA
+JB,5,9,4,3,12,49,,"This is based on the much smaller areas where I have applied pesticides on my personal property, so I have limited confidence in my estimates.",NA
+JB,5,10,1.5,1.5,8,95,,Placing bait boxes should be relatively quick to deploy. I also included some time to check their condition weekly or biweekly.,Make min match mean
+JB,5,11,0,0,8,0,,Tick tubes should be relatively quick to deploy. I also included some time to check their condition and rebait the cotton weekly or biweekly.,Make min match mean
+JB,5,12,1.5,0.5,2,100,,"Unless very intricate, feeders should be easy to remove.",NA
+JB,5,13,12,8,36,0,,"Under ideal conditions with the right equipment an acre of deer fencing should not take more than a work day to install for a professional, but if it is self-installed it will take far longer.",NA
+JB,5,14,0.5,0.5,1,95,,Applying repellents does not take a lot of time. I would expect less than an hour a year.,NA
+JB,5,15,0.5,0.5,1,95,,Applying repellents does not take a lot of time. I would expect less than an hour a year.,NA
+JB,5,16,1.5,1,3,95,,"Wearing the clothing does not take that long, but I added some time as I expect many people will self treat their clothing, which requires a small amount of time (not including the drying time).",NA
+JB,5,17,2,1,10,95,,"Generally tick checks are fast, but if individuals spend a lot of time in tick habitat the cumulative time could be more significant.",NA
+JB,5,18,2,0,15,85,,"I included 0, assuming that many people are going to shower anyway. The higher end estimate assumes 3 additional showers a week during the late spring / summer seasons.",NA
+JB,5,19,2,0,4,95,,"Again, I added 0 assuming some people will just add their field clothes to regular loads of laundry, but the high end assumes 3 additional runs of a dryer per week during the spring / summer seasons (just accounting for loading and unloading time, not total run time).",NA
+JB,5,20,1,0.5,4,70,,"The high estimate includes the time to go to the vet, if needed. I have not treated a pet in quite some time, so I only have moderate confidence in these estimates.",NA
+LE,1,1,20,10,40,80,,Only considering Ixodes scapularis nymphs for Objective 1,NA
+LE,1,2,18,9,36,90,,Very limited impact as stand-alone method,NA
+LE,1,3,18,9,36,90,,Very limited impact as stand-alone method,NA
+LE,1,4,18,9,36,90,,Very limited impact as stand-alone method,NA
+LE,1,5,16,8,32,90,,limited impact as stand-alone method,NA
+LE,1,6,20,10,40,100,,No impact on tick population,NA
+LE,1,7,4,1,8,90,,Variation due primarily to variable quality of spray application,NA
+LE,1,8,12,4,40,90,,Variation due to variable tick killing efficacy for natural yard spray products,NA
+LE,1,9,4,1,8,90,,Variation due primarily to variable quality of granule application,NA
+LE,1,10,10,4,30,70,,Impact varies with local tick host community,NA
+LE,1,11,12,4,30,70,,Impact varies with local tick host community,NA
+LE,1,12,18,9,36,90,,Very limited impact as stand-alone method,NA
+LE,1,13,10,4,30,70,,Impact appears to vary with size of fenced area,NA
+LE,1,14,20,10,40,100,,No impact on tick population,NA
+LE,1,15,20,10,40,100,,No impact on tick population,NA
+LE,1,16,20,10,40,100,,No impact on tick population,NA
+LE,1,17,20,10,40,100,,No impact on tick population,NA
+LE,1,18,20,10,40,100,,No impact on tick population,NA
+LE,1,19,20,10,40,100,,No impact on tick population,NA
+LE,1,20,20,10,40,100,,No impact on tick population,NA
+LE,2,1,3,1,5,75,,Including all life stages of Ixodes scapularis for Objective 2,NA
+LE,2,2,2.8,0.9,4.6,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,3,2.8,0.9,4.6,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,4,2.8,0.9,4.6,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,5,2.6,0.8,4.4,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,6,2.8,0.9,4.6,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,7,2,0.5,4,50,Lack of data,Impact on human bites not well understood; Will not impact ticks acquired outside of the spatially limited spray area,NA
+LE,2,8,2.5,0.8,5,50,Lack of data,Impact on human bites not well understood; Some products will have no impact,NA
+LE,2,9,2,0.5,4,50,Lack of data,Impact on human bites not well understood; Will not impact ticks acquired outside of the spatially limited spray area,NA
+LE,2,10,2.5,0.5,4.5,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,11,2.5,0.5,4.5,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,12,2.8,0.9,4.6,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,13,2.5,0.5,4.5,50,Lack of data,Impact on human bites not well understood,NA
+LE,2,14,1.5,0.5,3,50,Lack of data,Impact on human bites not well understood; Assuming daily use when in tick habitat,NA
+LE,2,15,2.5,0.5,5,50,,Impact on human bites not well understood; Assuming daily use when in tick habitat,NA
+LE,2,16,1,0.1,3,50,Lack of data,Impact on human bites not well understood; Assuming daily use when in tick habitat,NA
+LE,2,17,2,0.5,4.5,50,Lack of data,Impact on human bites not well understood; Assuming daily use when in tick habitat,NA
+LE,2,18,2.8,0.9,4.6,49,Lack of data,Impact on human bites not well understood,NA
+LE,2,19,2.5,0.8,4.4,50,Lack of data,Impact on human bites not well understood; Assuming daily use when in tick habitat,NA
+LE,2,20,2.5,0.8,4.4,50,Lack of data,Impact on human bites not well understood,NA
+LE,3,1,0,0,0,100,,Including all life stages of Ixodes scapularis for Objective 3,NA
+LE,3,2,25,20,30,75,,Some manipulation of grassy habitat,NA
+LE,3,3,25,20,30,75,,Some manipulation of brushy habitat,NA
+LE,3,4,30,25,35,75,,Covers a small portion of potentially natural habitat,NA
+LE,3,5,40,30,50,75,,Complete removal of leaf litter could impact a wide range of arthropods ,NA
+LE,3,6,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,7,85,70,100,90,,Major impact (unless sprayed only in fall),NA
+LE,3,8,40,0,80,90,,Impact variable due to wildly different efficacy of products to kill arthropods,NA
+LE,3,9,75,60,90,90,,Major impact but less vertical pesticide application compared to synthetic spray,NA
+LE,3,10,25,20,30,90,,Impact limited to rodent ectoparasites,NA
+LE,3,11,25,20,30,90,,Impact limited to rodent ectoparasites,NA
+LE,3,12,0,0,0,90,,Impact limited to wildlife seeking other food sources,NA
+LE,3,13,25,20,30,90,,Impact limited to keeping deer out of yards,NA
+LE,3,14,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,15,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,16,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,17,0,0,0,100,,No environmental impact,NA
+LE,3,18,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,19,0,0,0,100,,Less than minimal environmental impact,NA
+LE,3,20,0,0,0,100,,Less than minimal environmental impact,NA
+LE,4,1,0,0,0,100,,Including all life stages of Ixodes scapularis for Objective 4,NA
+LE,4,2,0,0,0,100,,No cost - done by homeowner with their battery operated mower,NA
+LE,4,3,70,0,500,80,,Zero reflects this being done by homeowner; high end is for professional service,NA
+LE,4,4,70,50,200,80,,50 reflects this being done by homeowner (cost of mulch); high end is for professional service,NA
+LE,4,5,50,0,400,80,, Zero reflects this being done by homeowner; high end is for professional service,NA
+LE,4,6,0,0,0,100,, No specific cost if done by homeowner,NA
+LE,4,7,500,400,800,80,,"Assuming 4 applications per year (early spring, late spring, summer, fall)",NA
+LE,4,8,500,400,800,80,,"Assuming 4 applications per year (early spring, late spring, summer, fall)",NA
+LE,4,9,300,200,800,80,,"Assuming 4 applications per year (early spring, late spring, summer, fall)",NA
+LE,4,10,1500,1500,1500,80,,Assuming 1 application in spring and one in summer,NA
+LE,4,11,280,260,300,80,,Assuming 1 application in spring and one in summer,NA
+LE,4,12,0,0,0,100,,No specific cost if done by homeowner,NA
+LE,4,13,4000,2500,7000,80,,one time cost rather than annual cost,NA
+LE,4,14,60,40,80,80,,Listed cost is for 5 cans,NA
+LE,4,15,90,60,120,80,,Listed cost is for 5 cans,NA
+LE,4,16,260,200,400,80,,"Cost based on 2 pairs of socks, 2 long pants and 2 longsleeved shirts",NA
+LE,4,17,0,0,0,100,,No specific cost,NA
+LE,4,18,0,0,0,100,,No specific cost,NA
+LE,4,19,0,0,0,100,,No specific cost,NA
+LE,4,20,100,50,200,80,,Listed cost is for 1 dog over a year ,NA
+LE,5,1,0,0,0,100,,Including all life stages of Ixodes scapularis for Objective 5,NA
+LE,5,2,13,10,15,60,,30 min per week over 26 wk for mean,NA
+LE,5,3,4,2,6,60,,"done twice in summer, each time 2 hr, for mean",NA
+LE,5,4,2,1,3,60,,2 hr in spring to spread fresh mulch for mean,NA
+LE,5,5,4,2,8,60,,4 hr in fall to removal leaves for mean,NA
+LE,5,6,2,1,8,60,,time depends on what is being moved,NA
+LE,5,7,8,6,10,60,,"2 hr/occasion on 4 occasions/year (early spring, late spring, summer, fall) for mean",NA
+LE,5,8,16,12,20,60,,2 hr/occasion on 8 occasions/year for mean; more frequent applications for natural spray,NA
+LE,5,9,4,2,6,60,,"1 hr/occasion on 4 occasions/year (early spring, late spring, summer, fall) for mean",NA
+LE,5,10,7,6,8,70,,"1 application each in spring and summer, each taking 3 hr, plus fall removal taking 1 hr",NA
+LE,5,11,3,2,4,70,,"1 application each in spring and summer, each taking 1 hr, plus fall removal taking 1 hr",NA
+LE,5,12,2,1,3,60,,time depends on the type of feeder,NA
+LE,5,13,64,32,96,50,Other,depends on size of fenced area but I figured a crew of 4 people taking 2 days for mean,NA
+LE,5,14,15,10,20,50,Lack of data,Assuming application is done daily (taking 5 min/day) over 6 months (180 days) ,NA
+LE,5,15,15,10,20,50,Lack of data,Assuming application is done daily (taking 5 min/day) over 6 months (180 days) ,NA
+LE,5,16,15,10,20,50,Lack of data,Assuming changing into/out of clothes done daily (taking 5 min/day) over 6 months (180 days) for the mean,NA
+LE,5,17,30,25,35,50,Lack of data,Assuming check is done daily (taking 10 minutes/day) over 6 months (180 days) for the mean,NA
+LE,5,18,0,0,0,0,Other,Most people shower daily anyway so this is not specific to tick bite prevention,NA
+LE,5,19,45,40,50,50,Lack of data,Assuming this is done daily (taking 15 min/day) over 6 months (180 days) ,NA
+LE,5,20,2,1,3,90,,Assuming monthly treatment over 6 months,NA
+ML,1,1,15,0,30,90,NA,,NA
+ML,1,2,15,0,30,90,NA,,NA
+ML,1,3,6,0,16,90,NA,,NA
+ML,1,4,15,0,30,90,NA,,NA
+ML,1,5,10,0,21,90,NA,,NA
+ML,1,6,15,0,30,90,NA,While this might reduce encounter risk  it would not reduce tick populations.,NA
+ML,1,7,1,0,6,90,NA,,NA
+ML,1,8,8,0,16,80,NA,I think this would be dependent on the type of natural spray,NA
+ML,1,9,3,0,6,90,NA,,NA
+ML,1,10,7,0,20,90,NA,In my experience this reduces parasitizing ticks  but not questing ticks. However there may be a cumulative impact over several seasons  which is why I reduced the mean estimates. ,NA
+ML,1,11,13,0,25,80,NA,,NA
+ML,1,12,13,0,25,90,NA,,NA
+ML,1,13,15,0,25,90,NA,,NA
+ML,1,14,15,0,30,90,NA,Same as the high use areas  this would reduce encounter risk  but not tick populations.,NA
+ML,1,15,15,0,30,90,NA,Same as A14,NA
+ML,1,16,15,0,30,90,NA,Same as A14,NA
+ML,1,17,15,0,30,90,NA,Same as A14,NA
+ML,1,18,15,0,30,90,NA,Same as A14,NA
+ML,1,19,15,0,30,90,NA,Same as A14,NA
+ML,1,20,15,0,30,90,NA,Same as A14,NA
+ML,2,1,2,0,3,90,NA,,NA
+ML,2,2,2,0,3,90,NA,,NA
+ML,2,3,0.5,0.5,15,90,NA,,Make min match mean
+ML,2,4,1.5,1.5,15,90,NA,I think there might be a slight reduction not in the fact that it reduces tick densities but it might alter human behavior by creating a visual barrier of low and high risk zones,Make min match mean
+ML,2,5,1,0,2.1,90,NA,,NA
+ML,2,6,0.5,0,1.5,80,NA,,NA
+ML,2,7,0,0,0.5,90,NA,,NA
+ML,2,8,0.5,0,1,90,NA,,NA
+ML,2,9,0.3,0,0.8,90,NA,,NA
+ML,2,10,1,0,2.1,85,NA,Might see a slight reduction  but most likely after several years of cumulative impact. ,NA
+ML,2,11,1.5,0,2.8,80,NA,,NA
+ML,2,12,1.3,0,2.7,90,NA,,NA
+ML,2,13,1.6,0,2.6,90,NA,,NA
+ML,2,14,0.2,0,0.4,90,NA,,NA
+ML,2,15,1,0,2,90,NA,,NA
+ML,2,16,0,0,0.1,90,NA,,NA
+ML,2,17,0.4,0,1.3,80,NA,,NA
+ML,2,18,0.4,0,1.1,80,NA,,NA
+ML,2,19,0.5,0,1,85,NA,,NA
+ML,2,20,1.1,0,2,85,NA,,NA
+ML,3,1,0,0,5,90,NA,Do nothing will have no impact unless it involves lack of invasive control on properties.,NA
+ML,3,2,10,0,25,90,NA,"Thinking of pollinators and "" no mow may""",NA
+ML,3,3,0,0,5,90,NA,,NA
+ML,3,4,0,0,5,90,NA,,NA
+ML,3,5,3,0,5,90,NA,Potential to disturb pollinator habitat,NA
+ML,3,6,1,0,5,90,NA,,NA
+ML,3,7,15,0,30,90,NA,When done properly  it should be minimal application in a high tick density area  not broadcast application,NA
+ML,3,8,9,0,25,90,NA,Same as A7,NA
+ML,3,9,10,0,25,90,NA,Same as A7,NA
+ML,3,10,5,0,10,90,NA,,NA
+ML,3,11,4,0,10,90,NA,,NA
+ML,3,12,5,0,10,90,NA,,NA
+ML,3,13,6,0,15,90,NA,,NA
+ML,3,14,0,0,5,90,NA,,NA
+ML,3,15,0,0,5,90,NA,,NA
+ML,3,16,0,0,5,90,NA,,NA
+ML,3,17,0,0,3,90,NA,,NA
+ML,3,18,0,0,3,90,NA,,NA
+ML,3,19,0,0,2,90,NA,,NA
+ML,3,20,1,0,5,90,NA,,NA
+ML,4,1,0,0,0,90,NA,,NA
+ML,4,2,180,0,504,90,NA,Basing this response as either a lawn mowing service or purchase of a lawn mower.,NA
+ML,4,3,90,0,324,90,NA,Basing this on a professional landscaping group vs homeowner effort and minimal tools.,NA
+ML,4,4,108,0,234,80,NA,,NA
+ML,4,5,36,0,108,90,NA,This would be no cost to homeowners if they own/purchase a rake  but there are services available that cost more. ,NA
+ML,4,6,90,0,414,80,NA,This would most likely just be homeowners effort  but there are services available that cost more. ,NA
+ML,4,7,270,180,683,80,NA,,NA
+ML,4,8,342,270,809,81,NA,,NA
+ML,4,9,234,126,558,80,NA,Granular is usually less than sprays as they can be done with manual spreaders or backpack blowers rather that a spray rig.,NA
+ML,4,10,504,270,863,75,NA,,NA
+ML,4,11,270,108,504,75,NA,,NA
+ML,4,12,72,0,108,90,NA,Once again  I think if you had to hire help  then it would be cost of services whereas most homeowners can rip out a bird feeder on their own.,NA
+ML,4,13,2500,1025,5000,80,NA,This is largely dependent on lawn size. ,NA
+ML,4,14,54,0,90,90,NA,,NA
+ML,4,15,72,0,108,91,NA,,NA
+ML,4,16,90,0,180,90,NA,,NA
+ML,4,17,0,0,0,90,NA,,NA
+ML,4,18,0,0,108,70,NA,Cost of water and electricity is hard to define.,NA
+ML,4,19,36,0,144,70,NA,Same as A18,NA
+ML,4,20,108,0,306,70,NA,This can also vary greatly by type and number of pets being treated.,NA
+ML,5,1,0,0,0,90,NA,,NA
+ML,5,2,15.5,5,22.5,80,NA,,NA
+ML,5,3,10.5,8,15,90,NA,,NA
+ML,5,4,3,1.5,7,90,NA,,NA
+ML,5,5,7.5,2,15,90,NA,,NA
+ML,5,6,7.5,2.5,12.5,80,NA,,NA
+ML,5,7,2,1,7.5,90,NA,,NA
+ML,5,8,2,1.5,7.5,90,NA,,NA
+ML,5,9,2,1,5,90,NA,,NA
+ML,5,10,4,1,7,90,NA,,NA
+ML,5,11,2,1.5,6.5,90,NA,,NA
+ML,5,12,1,0.5,4,90,NA,,NA
+ML,5,13,7,5,15,80,NA,,NA
+ML,5,14,2,0.5,4,90,NA,,NA
+ML,5,15,1.5,0.5,4,90,NA,,NA
+ML,5,16,0,0,0.5,90,NA,I gaged this as how long it takes you to put on a pair of pants.,NA
+ML,5,17,0,0,0.5,90,NA,,NA
+ML,5,18,0.5,0.5,0.5,90,NA,,NA
+ML,5,19,1.5,0.5,4,90,NA,,NA
+ML,5,20,1,0.5,2,90,NA,,NA
+NC,1,1,20,10,60,60,,,NA
+NC,1,2,20,10,60,60,,Our research found no impact of mowing along wooded edges so I used the same values as A1 here.,NA
+NC,1,3,10,10,30,50,Lack of data,Connally et al 2025 found understory habitat related to increased tick densities,NA
+NC,1,4,10,0,20,25,Lack of data,Am I sampling in the lawn or in the forest here? If in the forest I'd say no impact but if it's the lawn side of the dry barrier then maybe we would see an impact. ,NA
+NC,1,5,2,0,12,70,,,NA
+NC,1,6,5,0,29,0,Other,I don't understand this. If I move the playground am I now sampling next to the playground or am I still sampling at the forested edge? ,NA
+NC,1,7,1,0,5,95,,This is solidly supported in the literature,NA
+NC,1,8,15,0,45,60,Other,Depends on product applied. We have found 25b cedar oil retail products to be highly variable in lab. ,NA
+NC,1,9,2,0,10,90,,Well supported in sci. literature,NA
+NC,1,10,20,0,45,51,,studies on this are varied. But in CT we found no impact on tick abudance in a study of 650 properties.,NA
+NC,1,11,20,0,45,25,Other,The studies on this tactic are varied.  Also they are limited to treating only mice so don't impact other reservoir hosts. We have no data on this approach but I'm skeptical of tick tubes based on what is reported in the literature.,NA
+NC,1,12,20,0,45,25,Other,Conflicting reports on the impact of bird feeders.  We recently found absence of a bird feeder was related to increased tick densities (surprisingly!) - in Connally et al. 2025. It's hard to make sense of this intervention.,NA
+NC,1,13,20,0,45,75,,We found no impact of deer fences on tick abundance - Connally et al. 2025 JME,NA
+NC,1,14,20,0,45,50,Other,I don't understand this question. My wearing repellent should not impact how many ticks are in my yard. So I estimate no difference in residential tick abundance here.,NA
+NC,1,15,20,0,45,50,,Same comment as for A14. ,NA
+NC,1,16,20,0,45,50,Other,Evidence points to treated clothing as being highly protective against tick bite but wearing treated clothing should not impact residential tick abundance. ,NA
+NC,1,17,20,0,45,58,,Connally et al 2009 showed tick checks to be protective against disease.  However,NA
+NC,1,18,20,0,45,50,Other,Same comment as for A17,NA
+NC,1,19,20,0,44,50,Other,Should not impact residential tick dragging data.,NA
+NC,1,20,20,0,45,50,Other,Should not impact residential tick dragging data.,NA
+NC,2,1,1.6,0,3,51,Lack of data,Incidence of tick bite in general is likely quite low,NA
+NC,2,2,1.7,0,3,70,,Our data shows no impact of mowing on tick encounter but otherwise we don't have many studies on this,NA
+NC,2,3,1.6,0,3.1,51,Lack of data,will reduce tick abundance but unsure about bites,NA
+NC,2,4,1.6,0,3.1,10,Lack of data,,NA
+NC,2,5,1.5,0,3.1,49,Lack of data,,NA
+NC,2,6,1.5,0,3.1,10,Lack of data,,NA
+NC,2,7,1,0,1,60,,,NA
+NC,2,8,1.5,0,3,20,Lack of data,,NA
+NC,2,9,1,0,1.5,60,,,NA
+NC,2,10,1.5,0,3,60,,Hinckley et al 2021,NA
+NC,2,11,1.5,0,3,50,Lack of data,,NA
+NC,2,12,1.5,0,3.1,50,Lack of data,,NA
+NC,2,13,1.5,0,3,50,,fences don't reduce ticks but not sure how this translates to human outcomes (Connally et al 2025),NA
+NC,2,14,0.5,0,1,60,,,NA
+NC,2,15,1.5,0,3,19,Lack of data,,NA
+NC,2,16,0.5,0,0.5,70,,,NA
+NC,2,17,0.6,0,1,70,,,NA
+NC,2,18,0.5,0,0.6,75,,,NA
+NC,2,19,1,0,1,60,,personal protection like this relies on daily practice,NA
+NC,2,20,1,0,3,50,Lack of data,,NA
+NC,3,1,0,0,0,90,,,NA
+NC,3,2,30,0,52,60,,,NA
+NC,3,3,50,0,70,60,,,NA
+NC,3,4,20,0,30,25,Lack of data,,NA
+NC,3,5,60,0,90,70,,,NA
+NC,3,6,5,0,10,90,,,NA
+NC,3,7,80,0,100,90,,,NA
+NC,3,8,25,0,50,50,Lack of data,,NA
+NC,3,9,70,0,90,75,,,NA
+NC,3,10,30,0,50,50,Lack of data,,NA
+NC,3,11,30,0,50,50,Lack of data,,NA
+NC,3,12,15,0,30,25,Lack of data,,NA
+NC,3,13,15,0,30,25,Lack of data,,NA
+NC,3,14,5,0,10,80,,,NA
+NC,3,15,10,0,20,50,Lack of data,,NA
+NC,3,16,30,0,50,50,Lack of data,,NA
+NC,3,17,3,0,5,100,,,NA
+NC,3,18,2,0,5,100,,,NA
+NC,3,19,3,0,6,90,,,NA
+NC,3,20,20,0,30,50,Lack of data,,NA
+NC,4,1,0,0,0,100,,,NA
+NC,4,2,509,0,1009,60,,,NA
+NC,4,3,2066,509,5000,50,Lack of data,,NA
+NC,4,4,623,509,1434,50,Lack of data,,NA
+NC,4,5,113,0,1009,25,Lack of data,,NA
+NC,4,6,57,0,415,50,Lack of data,,NA
+NC,4,7,509,0,1519,70,,depends on who is applying (homeowner vs company) and # applications/yr,NA
+NC,4,8,1245,538,4009,60,,natural products more costly than synthetic. Also depends on who is applying and # applications/yr. Natrual products needs more frequent application,NA
+NC,4,9,623,538,2509,60,,depends on who is applying/# of applications,NA
+NC,4,10,1047,509,3019,80,,can only be applied by PCO; local rates are $50+ per box. # of boxes depend on amt of habitat and if deployed in single or multiple rows,NA
+NC,4,11,679,509,2000,50,Other,not so familiar with cost of these tubes,NA
+NC,4,12,0,0,0,89,,,NA
+NC,4,13,3085,2009,5000,70,,,NA
+NC,4,14,57,28,104,80,,,NA
+NC,4,15,113,28,188,60,,product dependent; natural products more costly than synthetic; larger people need more than smaller people/kids,NA
+NC,4,16,85,57,302,50,,depends on if self treated or purchasing perm. impregnated clothing.  If only self treating then cost will be lower. ,NA
+NC,4,17,0,0,0,95,,,NA
+NC,4,18,28,28,85,70,,,NA
+NC,4,19,56,28,104,70,,,NA
+NC,4,20,113,113,500,65,,depends on product applied and # times applied. in some cases,Make min match mean
+NC,5,1,0,0,0,100,Lack of data,,NA
+NC,5,2,30,25.5,51,70,,,NA
+NC,5,3,38,21,75,50,Lack of data,,NA
+NC,5,4,40,30,75,51,Lack of data,,NA
+NC,5,5,50,29.5,75,50,Lack of data,,NA
+NC,5,6,2,2,10.5,70,,,NA
+NC,5,7,7,5.5,20.5,50,Lack of data,depends on method of application and amt of habitat on property,NA
+NC,5,8,7,4.5,20,50,Lack of data,,NA
+NC,5,9,7,5,25,49,Lack of data,,NA
+NC,5,10,8.5,5,30.5,60,,first application takes longest; but depends on # of boxes and # of applications/replacements,NA
+NC,5,11,7.5,3,22,50,Other,not as familiar with using this approach/time needed to install/replace,NA
+NC,5,12,1,1,3.5,75,,,NA
+NC,5,13,12.5,10,30,60,,,NA
+NC,5,14,0.5,0.5,2,80,,,NA
+NC,5,15,0.5,0.5,3,74,,,NA
+NC,5,16,30,12,45.5,50,Lack of data,assumes drying time for self application 2x/year,NA
+NC,5,17,3,0.5,12.5,50,Lack of data,how long do people check? no one knows and there isn't best practices.  This estimate assumes daily checks for 2 min each time per year,NA
+NC,5,18,0,0,75,0,,,NA
+NC,5,19,0,0,75,0,,,NA
+NC,5,20,0,0,75,0,,,NA
+TM,1,1,25,10,55,50,Other,Location varies a lot,NA
+TM,1,2,25,10,55,80,,Maintaining shorter lawn is baseline for region,NA
+TM,1,3,15,6,40,40,Other,Lots of variability in what creates an edge habitat.  maintenance is vague and open to interpretation.,NA
+TM,1,4,25,10,55,50,Other,May work through modifying human behavior rather than ticks,NA
+TM,1,5,15,6,40,60,Other,Removing leaves on lawn makes no difference but leaves on the edge would,NA
+TM,1,6,25,10,55,90,,,NA
+TM,1,7,0,0,5,90,,,NA
+TM,1,8,23,7,45,60,Other,Too many products. Some may have some effect  but others won't,NA
+TM,1,9,0,0,5,80,,A fine alternative to spraying,NA
+TM,1,10,23,7,45,75,,,NA
+TM,1,11,20,7,45,85,,Less effective if property has robust chipmunk population,NA
+TM,1,12,20,7,45,60,Lack of data,,NA
+TM,1,13,25,5,60,75,,For individual properties deer fencing had not much impact on tick properties,NA
+TM,1,14,25,10,55,80,,,NA
+TM,1,15,25,10,55,80,,,NA
+TM,1,16,25,10,55,80,,,NA
+TM,1,17,25,10,55,80,,,NA
+TM,1,18,25,10,55,100,,,NA
+TM,1,19,25,10,55,100,,,NA
+TM,1,20,25,10,55,80,,Might depend on the amount of time the treated pet spends in the yard,NA
+TM,2,1,3.5,0,10,60,,,NA
+TM,2,2,3.5,0,10,60,,,NA
+TM,2,3,2.5,0,7,50,,A lot of variability in what is considered edge maintenance,NA
+TM,2,4,2.5,0,7,50,,Barrier may work through reducing human movement into high risk area (but only if learned),NA
+TM,2,5,2,0,7,60,,,NA
+TM,2,6,2.5,0,7,60,,,NA
+TM,2,7,0.1,0,1,90,,,NA
+TM,2,8,2,0,7,60,,Depends on the active ingredient within the spray,NA
+TM,2,9,0.1,0,1,90,,,NA
+TM,2,10,2.5,0,7,70,,,NA
+TM,2,11,2,0,7,90,,Depends on how robust the chipmunk population is,NA
+TM,2,12,2.5,0,7,60,,,NA
+TM,2,13,2.5,0,7,70,,Fence could limit human access to higher risk habitat,NA
+TM,2,14,2,0,7,60,,,NA
+TM,2,15,3,0,7,60,,Lots of variability in active ingredients,NA
+TM,2,16,0.1,0,1,90,,,NA
+TM,2,17,0.5,0,5,70,,Likely to find ticks that have already attached,NA
+TM,2,18,0.5,0,5,60,,,NA
+TM,2,19,3,0,7,60,,Assuming you're not also doing a tick check,NA
+TM,2,20,0.5,0,5,70,,Varies if the product kills ticks on contact or only works when tick feeds,NA
+TM,3,1,0,0,0,100,,,NA
+TM,3,2,0,0,5,95,,,NA
+TM,3,3,15,2,20,90,,,NA
+TM,3,4,15,2,20,80,,,NA
+TM,3,5,5,0,10,90,,Will have an impact as it is habitat removal for some non-target species. but not necessarily a detrimental impact,NA
+TM,3,6,0,0,0,95,,,NA
+TM,3,7,25,0,35,80,,Definition of impact depends on individuals tolerance levels,NA
+TM,3,8,20,0,30,80,,If it can kill ticks it can kill other organisms,NA
+TM,3,9,20,0,35,90,,,NA
+TM,3,10,10,0,25,90,,,NA
+TM,3,11,10,0,25,95,,Sometimes bumblebees utilize previous mouse nests and treated cotton could persist and impact bumblebees. Likely fairly limited impact,NA
+TM,3,12,30,10,50,80,,Will reduce the numbers + diversity of birds and small mammals in the yard,NA
+TM,3,13,30,10,50,80,,,NA
+TM,3,14,0,0,5,90,,,NA
+TM,3,15,0,0,5,90,,,NA
+TM,3,16,0,0,5,90,,If self applying the treatment need to be careful with spraying / run off,NA
+TM,3,17,0,0,0,100,,,NA
+TM,3,18,0,0,0,100,,,NA
+TM,3,19,0,0,0,100,,,NA
+TM,3,20,2,0,5,80,,Dependent on activity of the treated pet,NA
+TM,4,1,0,0,0,100,,,NA
+TM,4,2,1600,600,2000,75,,Depends on if DIY or hired,NA
+TM,4,3,400,200,1500,60,,Depends on if DIY or hired,NA
+TM,4,4,2500,500,3500,60,,Depends on the materials (wood chips can be free vs. gravel),NA
+TM,4,5,1000,200,2500,70,,Depends on if DIY or hired,NA
+TM,4,6,400,200,2000,60,,Depends on the scope of the job (just moving furniture vs fixed features) and DIY vs professional,NA
+TM,4,7,800,300,1700,70,,Varies if DIY vs professional application. DIY can still be expensive based on products and tools needed.,NA
+TM,4,8,1040,375,2210,65,,Depends on DIY vs professional and number of treatments needed for different active ingredients,NA
+TM,4,9,720,270,1530,60,,Depends on DIY vs professional,NA
+TM,4,10,2000,1000,2500,70,,,NA
+TM,4,11,500,250,800,75,,Depends on if DIY or done professionally,NA
+TM,4,12,0,0,0,95,,,NA
+TM,4,13,3000,2000,5000,30,,Depends on the materials; DIY vs professional; configuration of the yard. ,NA
+TM,4,14,45,30,100,70,,,NA
+TM,4,15,45,30,100,70,,,NA
+TM,4,16,450,400,800,65,,Depends on DIY vs buying already treated products,NA
+TM,4,17,0,0,0,90,,,NA
+TM,4,18,0,0,0,90,,,NA
+TM,4,19,20,10,31,70,,,NA
+TM,4,20,480,400,600,85,,Depends on the product,NA
+TM,5,1,0,0,0,95,,,NA
+TM,5,2,55,25,70,90,,Depends on type of mower,NA
+TM,5,3,20,5,35,80,,,NA
+TM,5,4,30,15,45,70,,,NA
+TM,5,5,20,10,35,80,,Depends on what edge is composed of + how many trees the yard has,NA
+TM,5,6,5,1,6.5,80,,,NA
+TM,5,7,1.5,1,3,90,,Depends on number of applications. This estimate is based on 2 applications,NA
+TM,5,8,3,2,6,90,,Depends on number of applications. this estimate is based on 4,NA
+TM,5,9,3,2,5,80,,Assumes user is using chest mounted broadcast spreader,NA
+TM,5,10,8,6,10,75,,Most likely going to be applied by a professional,NA
+TM,5,11,4,2,6,90,,Assumes two applications per year,NA
+TM,5,12,1,0,2,80,,,NA
+TM,5,13,30,20,60,70,,Very dependent on material used,NA
+TM,5,14,1.5,0.5,3,75,,,NA
+TM,5,15,1.5,0.5,3,75,,,NA
+TM,5,16,3,1,5,90,,Assuming person is treating shoes socks and pants following recommendations,NA
+TM,5,17,20,5,40,80,,Assuming it takes 2-5 minutes per tick check,NA
+TM,5,18,15,5,30,80,,,NA
+TM,5,19,1,0.5,2.5,80,,Just including time to put items in and take them out,NA
+TM,5,20,1,0.5,4,75,,Less time to give chew tablets more time to apply a topical,NA
